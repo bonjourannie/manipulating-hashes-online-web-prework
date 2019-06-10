@@ -11,7 +11,6 @@ array = groceries.values
 
  array.flatten
 
- end
-  
+
 
 end
